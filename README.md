@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoudipBiswas/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SoudipBiswas/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
