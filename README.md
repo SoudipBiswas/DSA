@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SoudipBiswas/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/SoudipBiswas/DSA/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SoudipBiswas/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoudipBiswas/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoudipBiswas/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SoudipBiswas/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
